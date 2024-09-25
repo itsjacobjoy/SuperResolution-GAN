@@ -13,3 +13,5 @@ Python 3.x
 TensorFlow 
 NumPy
 CUDA-enabled GPU (strongly recommended for faster training)
+
+** P.S. - Limitation of GPU limits quality of results **  
